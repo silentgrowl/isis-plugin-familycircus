@@ -17,3 +17,7 @@ And then execute:
 ## Usage
 
 Post a Nietzsche Family Circus comic into a room by typing ```!familycircus```, ```!nietzsche```, or ```!nfc``` in chat.
+
+## Links
+
+* [isis-plugin-familycircus on RubyGems](https://rubygems.org/gems/isis-plugin-familycircus)
